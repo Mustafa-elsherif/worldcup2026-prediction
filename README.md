@@ -7,7 +7,7 @@
 
 ## 🏆 Live Dashboard
 
-👉 **[View Predictions Dashboard](https://share.streamlit.io)** *(replace with your link after deploy)*
+👉 **[View Predictions Dashboard](https://share.streamlit.io)** *(https://worldcup2026-prediction.streamlit.app/)*
 
 ---
 
